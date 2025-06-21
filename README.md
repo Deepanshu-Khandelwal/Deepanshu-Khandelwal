@@ -9,7 +9,7 @@ I specialize in <b>Web Development</b>, <b>Poster Designing</b>, and <b>PCB Layo
 I love turning complex challenges into clean, functional, and visually compelling solutions.<br>
 Whether it's a website, a poster, or a circuit, I focus on creating designs that are user-centric and message-driven. 🌟
 </p>
-
+<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
 ---
 
 ### 🚀 Currently Exploring
