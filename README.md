@@ -109,14 +109,6 @@ Always learning. Always building. Always curious. 💡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-khandelwal&layout=compact&theme=radical" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepanshu-khandelwal&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-khandelwal&theme=onestar&no-frame=true&column=7" />
-</p>
-
 ---
 
 ### 🧩 Fun Zone
