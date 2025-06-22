@@ -14,11 +14,14 @@
 
 ---
 
-### 🎿 Now Playing on Spotify
+### 🎿 Follow on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31t5ylctkkemj6gmef352v22reva&cover_image=false&theme=dark" />
-
+  <a href="https://open.spotify.com/user/31t5ylctkkemj6gmef352v22reva?si=wge7xH-VT9ucynCz33zEyQ">
+    <img src="./btn-spotify.png" alt="Follow on Spotify" width="220" />
+  </a>
 </p>
+
+
 
 
 ---
